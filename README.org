@@ -1,0 +1,10 @@
+* configuration.options
+
+Extensible, schema-based configuration system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scymtym/configuration.options.git   |
+| commit  | 8eb275d  |
+| systems | configuration.options |
+|---------+-------------------------------------------|
+
